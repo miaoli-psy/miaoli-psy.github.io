@@ -17,7 +17,10 @@ of Menie, M. A. W., te Nijenhuis, J., Shibaev, V., Li, M., & Smit, J. (2019). Ar
 Ding, X. F (2017) Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instruction Manual of Experimental Psychology]. Wuhan: Shijie tushu chuban gongsi. (Contributed to the authorship)
 
 ## Conferences & Communications
-*coming soon*
+2019 ECVP (presentation)
 
+2019 Crowding workshop (poster)
+
+2019 Contact Group (presentation)
 ## Working Papers and Works in Progress
 TO BE CONTINUE!
