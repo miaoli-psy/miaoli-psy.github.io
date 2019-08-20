@@ -11,7 +11,7 @@ permalink: /cv/
 
 <!-- <iframe src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe> -->
 
-<object data="/research/CV_Miao_Li20180918.pdf" type="application/pdf" width="700px" height="700px"> 
+<object data="/research/CV_Miao_Li20180918.pdf" type="application/pdf" width="1000px" height="1000px"> 
 <!-- <embed src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width="500" height="375"> -->
 </object> 
 
