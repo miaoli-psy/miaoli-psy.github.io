@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Blog
-permalink: /blog/
+title: Other Links About Me
+permalink: /OtherLinks/
 ---
 
 [Douban(豆瓣)](https://www.douban.com/people/122308748/)

@@ -5,8 +5,6 @@ permalink: /cv/
 ---
 
 [Download](/research/CV_Miao_Li20180918.pdf)
-[Preview](https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing)
-
 
 <!-- {% include embedpdf.html url="/research/CV_Miao_Li20180918.pdf" width=100 height=800 %} -->
 
