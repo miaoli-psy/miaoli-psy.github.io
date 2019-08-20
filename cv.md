@@ -4,10 +4,10 @@ title: CV
 permalink: /cv/
 ---
 
-I embed a current version of my CV below. You can also [download the PDF here](https:.....).
+I embed a current version of my CV below. You can also [download the PDF here](https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing).
 
 
-<!-- {% include embedpdf.html code="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width=100 height=800 %} -->
+{% include embedpdf.html code="1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width=100 height=800 %}
 
-<iframe src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe>
+<!-- <iframe src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe> -->
 
