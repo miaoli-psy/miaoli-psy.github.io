@@ -4,7 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
-I am trying to add some blogs here.
+# Douban(豆瓣)
+Miao at Douban (https://www.douban.com/people/122308748/)
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
