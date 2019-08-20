@@ -6,7 +6,7 @@ permalink: /about/
 
 {% include image.html url="/images/pic.png" caption="Cat" width=350 align="right" %}
 
-I am a Ph.D. candidate at <a href="https://www.univ-lille.fr"> KU Leuven</a> and <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> of congnitive psychology.
+I am a Ph.D. candidate at <a href="https://www.univ-lille.fr"> Université de Lille </a> and <a href="https://www.kuleuven.be/kuleuven/"> KU Leuven </a> of congnitive psychology.
 
 # Personal Page
 [Personal Page at SCALAB](http://www.scalab.cnrs.fr/index.php/fr/trombinoscope/10-perso/153-miao-li)
