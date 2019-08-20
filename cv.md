@@ -12,8 +12,6 @@ I embed a current version of my CV below. You can also [download the PDF here](h
 <!-- <iframe src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe> -->
 
 <object data="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" type="application/pdf" width="700px" height="700px"> 
-    <embed src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing"> 
-     This browser does not support PDFs. Please download the PDF to view it: <a href="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing">Download PDF</a>.</p> 
-    </embed> 
+<iframe src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" style="width:600px; height:500px;" frameborder="0"></iframe>
 </object> 
 
