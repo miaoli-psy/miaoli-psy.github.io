@@ -3,12 +3,17 @@ layout: page
 title: Other Links About Me
 permalink: /OtherLinks/
 ---
+[LinkedIn](https://www.linkedin.com/in/miao-li-1b5476117/)
+
+[Github](https://github.com/miaoli-psy)
 
 [Douban(豆瓣)](https://www.douban.com/people/122308748/)
 
 [Goodreads](https://www.goodreads.com/user/show/31716487-miao)
 
 [Blog](https://jiamiao2018.blogspot.com/)
+
+[My Husband's Website](https://ljm0.github.io/)
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
