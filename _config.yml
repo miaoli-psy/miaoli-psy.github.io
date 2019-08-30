@@ -24,5 +24,7 @@ excerpt_separator: "<!--more-->"
 # google_site_verification: "nfd8hkZSc3GmIivrLCudAdTq5m1kI0Ao7P1UyIt9z5Q"
 # bing_webmastertools_id: "E24D33E8D53D5730794478CB209F15E5"
 
+encoding: UTF-8
+
 plugins:
   - jekyll-sitemap
