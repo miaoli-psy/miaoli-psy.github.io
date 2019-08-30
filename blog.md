@@ -13,7 +13,7 @@ permalink: /OtherLinks/
 
 [Blog](https://jiamiao2018.blogspot.com/)
 
-[My Husband's Website](https://ljm0.github.io/)
+[About my husband](https://ljm0.github.io/)
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
