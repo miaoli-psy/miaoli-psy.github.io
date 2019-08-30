@@ -34,3 +34,5 @@ TO BE CONTINUE!
 ## Master thesis
 
 From past experience to future anticipation: neuro correlates for temporal preparation. Supervised by [Dr. Sander Los](https://www.vupsy.nl/staff-members/sander-los/) and Dr. Joram van Driel.
+
+#### Please contact me if you’d like to voluntarily participate my experiments at Université de Lille.
