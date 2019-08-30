@@ -31,8 +31,8 @@ Ding, X. F (2017) Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instructi
 
 TO BE CONTINUE!
 
-## Master thesis
+## Master thesis (Jan 2018 - July 2018)
 
 From past experience to future anticipation: neuro correlates for temporal preparation. Supervised by [Dr. Sander Los](https://www.vupsy.nl/staff-members/sander-los/) and Dr. Joram van Driel.
 
-#### Please contact me if you’d like to voluntarily participate my experiments at Université de Lille.
+#### Please contact me if you'd like to voluntarily participate my experiments at Universit� de Lille.
