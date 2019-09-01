@@ -27,7 +27,7 @@ Ding, X. F (2017) Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instructi
 
 **Li. M**., Reynvoet. B., & Sayim. B. (25-29 August, 2019, talk) Crowding reduces numerosity estimates for large numbers. *European Conference on Visual Perception (ECVP)*, Leuven, Belgium.
 
-**Li. M**., Reynvoet. B., & Sayim. B. (23-24 June, 2019, poster) The role of crowding in perceived numerosity. *Workshop on visual crowding*, Murten, Switerland.
+**Li. M**., Reynvoet. B., & Sayim. B. (23-24 June, 2019, poster) The role of crowding in perceived numerosity. *Workshop on Visual C rowding*, Murten, Switzerland.
 
 **Li. M**., Reynvoet. B., & Sayim. B. (9-10 May, 2019, talk) Do crowded displays look less numerous? *8th Annual meeting 'Advances in Numerical Cognition Research'*, Blankenberge, Belgium.
 
