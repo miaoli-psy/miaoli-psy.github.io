@@ -19,7 +19,7 @@ During my Ph. D., I focus on the research field of *visual perception* and *nume
 
 of Menie, M. A. W., te Nijenhuis, J., Shibaev, V., **Li, M**., & Smit, J. (2019). Are the effects of lead exposure linked to the g factor? A meta-analysis. *Personality and Individual Differences*, *137*, 184-191.
 
-Ding, X. F (2017) Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instruction Manual of Experimental Psychology]. Wuhan: Shijie tushu chuban gongsi. (Contributed to the authorship)
+Ding, X. F (2017). Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instruction Manual of Experimental Psychology]. Wuhan: Shijie tushu chuban gongsi. (Contributed to the authorship)
 
 ## Conferences & Communications
 
