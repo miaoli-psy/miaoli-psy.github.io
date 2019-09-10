@@ -12,7 +12,7 @@ During my Ph. D., I focus on the research field of *visual perception* and *nume
 
 ...
 ## Research methods
-TO BE CONTINUE!
+TO BE CONTINUED!
 
 <hr style="clear:both;visibility: hidden;" />  
 
@@ -35,7 +35,7 @@ Ding, X. F (2017). Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instruct
 
 ## Working Papers & Works in Progress
 
-TO BE CONTINUE!
+TO BE CONTINUED!
 
 ## Master thesis (Jan 2018 - July 2018)
 
