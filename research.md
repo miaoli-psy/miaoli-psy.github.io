@@ -11,7 +11,9 @@ I love doing research. I believed that the ultimate goal of science is to help t
 During my Ph. D., I focus on the research field of *visual perception* and *numerical cognition*, and I am working on my thesis project *The role of visual crowding in perceived numerosity* under the supervision of [Prof. dr. Bilge Sayim](http://appearancelab.org/people.html) and [Prof. dr. Bert Reynvoet](https://numcoglableuven.be/researchers?name=b.reynvoet#b.reynvoet)
 
 ...
- 
+## Research methods
+TO BE CONTINUE!
+
 <hr style="clear:both;visibility: hidden;" />  
 
 
