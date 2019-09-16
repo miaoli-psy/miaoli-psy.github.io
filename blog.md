@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Links About Me
+title: More Information
 permalink: /OtherLinks/
 ---
 [LinkedIn](https://www.linkedin.com/in/miao-li-1b5476117/)
