@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-[Download](/research/CV_Miao_Li20180918.pdf)
+[Download](/research/miaoCV.pdf)
 
 <!-- {% include embedpdf.html url="/research/CV_Miao_Li20180918.pdf" width=100 height=800 %} -->
 
