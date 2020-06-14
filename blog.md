@@ -13,7 +13,9 @@ permalink: /OtherLinks/
 
 [Blog](https://jiamiao2018.blogspot.com/)
 
-[About my husband](https://ljm0.github.io/)
+[Twitter](https://twitter.com/Miao96910104)
+
+<!-- [About my husband](https://ljm0.github.io/) -->
 
 <!-- <ul id="archive">
 {% for post in site.posts %}
