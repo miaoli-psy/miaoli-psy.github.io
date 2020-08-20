@@ -13,7 +13,7 @@ permalink: /OtherLinks/
 
 [Blog](https://jiamiao2018.blogspot.com/)
 
-[Twitter](https://twitter.com/Miao96910104)
+[Twitter](https://twitter.com/miaolipsy)
 
 <!-- [About my husband](https://ljm0.github.io/) -->
 
