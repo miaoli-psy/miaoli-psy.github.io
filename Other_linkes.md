@@ -15,7 +15,9 @@ permalink: /OtherLinks/
 
 [Twitter](https://twitter.com/miaolipsy)
 
-<object data="/images/BoardingPass_MyNameOnFutureMission.png" type="application/pdf" width="1000px" height="500px"> 
+[My Boarding Pass to Mars](images/BoardingPass_MyNameOnFutureMission.png.png)
+
+<object data="/images/BoardingPass_MyNameOnFutureMission.png" type="application/pdf" width="500px" height="500px"> 
 <!-- <embed src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width="500" height="375"> -->
 </object> 
 
