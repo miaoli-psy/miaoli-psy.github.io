@@ -4,11 +4,6 @@ title: Research
 permalink: /research/
 ---
 
-
-I love doing research. I believed that the ultimate goal of science is to help to improve humans' well-being, and discovering, exploring cognitive processes are just tally with it. My primary academic interests are exploring the neural correlates of human basic cognitive processes, reciprocally, how these cognitive processes could have represented in cortical areas in the human brain. 
-
-During my Ph. D., I focus on the research field of *visual perception* and *numerical cognition*, and I am working on my thesis project *The role of visual crowding in perceived numerosity* under the supervision of [Prof. dr. Bilge Sayim](http://appearancelab.org) and [Prof. dr. Bert Reynvoet](https://numcoglableuven.be)
-
 ...
 ## Research methods
 TO BE CONTINUED!
@@ -24,6 +19,7 @@ Ding, X. F (2017). Shiyan xinli xue Shiyan zhidao shouce [An Experiment Instruct
 
 ## Conferences & Communications
 
+### 2020
 ### 2019
 
 **Li, M**., Reynvoet, B., & Sayim. B. (25-29 August, 2019, talk). Crowding reduces numerosity estimates for large numbers. *European Conference on Visual Perception (ECVP)*, Leuven, Belgium.
