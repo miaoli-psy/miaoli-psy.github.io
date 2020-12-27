@@ -15,6 +15,10 @@ permalink: /OtherLinks/
 
 [Twitter](https://twitter.com/miaolipsy)
 
+<object data="/images/BoardingPass_MyNameOnFutureMission.png" type="application/pdf" width="1000px" height="1000px"> 
+<!-- <embed src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width="500" height="375"> -->
+</object> 
+
 <!-- [About my husband](https://ljm0.github.io/) -->
 
 <!-- <ul id="archive">
