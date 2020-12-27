@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Joint Ph.D. candidate at Université de Lille and KU Leuven of congnitive psychology.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://miaoli-psy.github.io/" # the base hostname & protocol for your site
-# twitter_username: 631958057
+twitter_username: miaolipsy
 github_username:  miaoli-psy
 linkedin_username: miao-li-1b5476117
 # orcid_id: 0000-0003-4072-6263
