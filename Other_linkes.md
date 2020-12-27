@@ -17,9 +17,6 @@ permalink: /OtherLinks/
 
 [My Boarding Pass to Mars](images/BoardingPass_MyNameOnFutureMission.png)
 
-<object data="/images/BoardingPass_MyNameOnFutureMission.png" type="application/pdf" width="100px" height="300px"> 
-<!-- <embed src="https://drive.google.com/file/d/1HkBMsCK_gXslQIhRw2zP4uludlI4FHkM/view?usp=sharing" width="500" height="375"> -->
-</object> 
 
 <!-- [About my husband](https://ljm0.github.io/) -->
 
