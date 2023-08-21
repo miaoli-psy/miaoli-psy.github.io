@@ -8,6 +8,7 @@ on:
       - ".github/**"
       - "!.github/workflows/ci.yml"
       - ".gitignore"
+      - "docs/**"
       - "README.md"
       - "LICENSE"
   pull_request:
@@ -20,7 +21,7 @@ jobs:
 
     strategy:
       matrix:
-        ruby: [3]
+        ruby: [2.7, 3]
 
     steps:
       - name: Checkout
