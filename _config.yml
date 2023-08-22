@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-# weibo_username: huxpro
-# zhihu_username: huxpro
+# weibo_username: miao
+# zhihu_username: miao
 github_username: miaoli-psy
 twitter_username: miaolipsy
-#facebook_username:  huxpro
+#facebook_username:  miao
 linkedin_username:  miaolipsy
 
 # Build settings
