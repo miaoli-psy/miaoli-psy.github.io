@@ -3,7 +3,7 @@ title: Miao Li
 SEOTitle: Miao Li | Miao personal website
 header-img: img/bg.png
 email: chuoli223@yahoo.com
-description: "Here is Miao's personal webpage"
+description: "Miao's personal webpage"
 keyword: "Miao"
 url: "https://miaoli-psy.github.io/" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -70,7 +70,7 @@ kramdown:
 
 # Google Analytics
 ga_track_id: "G-F4LEPBJPF5" # Format: UA-xxxxxx-xx
-ga_domain: miaoli-psy.github.io
+ga_domain: auto
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
