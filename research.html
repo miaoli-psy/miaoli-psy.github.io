@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Research"
+description: ""
+header-img: "img/bg.png"
+header-mask: 0.2
+multilingual: true
+---
+
+{% include multilingual-sel.html %}
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture research_en %}{% include research/en.md %}{% endcapture %}
+    {{ research_en | markdownify }}
+</div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture research_zh %}{% include research/zh.md %}{% endcapture %}
+    {{ research_zh | markdownify }}
+</div>
+
