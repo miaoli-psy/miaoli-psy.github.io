@@ -1,0 +1,23 @@
+---
+layout: page
+title: "Publications"
+description: ""
+header-img: "img/bg.png"
+header-mask: 0.2
+multilingual: true
+---
+
+{% include multilingual-sel.html %}
+
+<!-- English Version -->
+<div class="en post-container">
+    {% capture publications_en %}{% include publications/en.md %}{% endcapture %}
+    {{ publications_en | markdownify }}
+</div>
+
+<!-- Chinese Version -->
+<div class="zh post-container">
+    {% capture publications_zh %}{% include publications/zh.md %}{% endcapture %}
+    {{ publications_zh | markdownify }}
+</div>
+
