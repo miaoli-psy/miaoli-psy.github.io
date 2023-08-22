@@ -29,3 +29,7 @@ Greetings! I am Miao Li (Li L-Miao, 李淼). I currently work as a postdoc resea
 
 ## Research interests
 
+* Visual perception
+* Visual crowding
+* Numerosity perception
+* Visual psychophysics
