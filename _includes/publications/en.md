@@ -25,16 +25,17 @@ Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals
 
 **L-Miao, L.,** Yu, D., Reynvoet, B., & Sayim, B. (2022) Redundancy masking of faces: When trios look like duos. Annual meeting of the Vision Sciences Society, May 2022,  St. Pete Beach, USA. [Poster](https://osf.io/avtm7)
 
-## 2021 and before
+## 2021
 **Li, M.,** Yildrim, F. Z., Alp, N., & Sayim, B. (2021). Feature migration in redundancy masking. GDR Vision Forum, October 2021. Talk. [Slides](https://osf.io/twjzs)
 
 **Li, M.,** Yildirim, F. Z., Alp, N., & Sayim, B. (2021). Seeing features of unseen objects: feature migration in redundancy masking. European Conference on Visual Perception, August 2021. [Poster](https://osf.io/wdbt8); [Video Tour](https://osf.io/z532j)
 
 **Li, M.,** Reynvoet, B., & Sayim, B. (2021). More crowded, less numerous: Crowding reduces the number of perceived items in numerosity perception. Virtual Vision Science Society, May 2021. [Poster and Video tour](https://osf.io/6s2b3)
 ​
-
+## 2020 and before
 **Li, M.,** Reynvoet, B., & Sayim, B. (2020). Perceived numerosity in crowded and uncrowded displays. In: Poster session presented at the Virtual Psychonomics 2020 Annual Meeting, November 2020.
 
+**Li, M.,** Reynvoet, B., & Sayim. B (2019). The role of crowding in perceived numerosity. Workshop on Visual Crowding, June 2019, Murten, Switzerland. Poster.
 
 **Li, M.,**  Reynvoet. B., & Sayim. B. (2019). Do crowded displays look less numerous? 8th Annual Meeting ‘Advances in Numerical Cognition Research’, May 2019, Blankenberge, Belgium. Talk.
 
