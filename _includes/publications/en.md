@@ -33,7 +33,7 @@ Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals
 **Li, M.,** Reynvoet, B., & Sayim, B. (2021). More crowded, less numerous: Crowding reduces the number of perceived items in numerosity perception. Virtual Vision Science Society, May 2021. [Poster and Video tour](https://osf.io/6s2b3)
 ​
 ## 2020 and before
-**Li, M.,** Reynvoet, B., & Sayim, B. (2020). Perceived numerosity in crowded and uncrowded displays. In: Poster session presented at the Virtual Psychonomics 2020 Annual Meeting, November 2020.
+**Li, M.,** Reynvoet, B., & Sayim, B. (2020). Perceived numerosity in crowded and uncrowded displays. In: Poster session presented at the Virtual Psychonomics 2020 Annual Meeting, November 2020. [Video tour](https://osf.io/by6ga)
 
 **Li, M.,** Reynvoet, B., & Sayim. B (2019). The role of crowding in perceived numerosity. Workshop on Visual Crowding, June 2019, Murten, Switzerland. Poster.
 
