@@ -18,7 +18,7 @@
 
 **L-Miao, L.,** Hansmann-Roth, S., Reynvoet, B., & Sayim, B. (2023). No pooling in crowding: Deterioration of orientation discrimination with increasing numbers of identical Gabors (ECVP), August 2023, Paphos, Cyprus. [Poster](https://osf.io/hta95)
 
-Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals: Negativity bias for emotion perception of single but not two identical faces. Vision Science Society, May 2023. Poster
+Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals: Negativity bias for emotion perception of single but not two identical faces. Vision Science Society, May 2023. [Poster](https://drive.google.com/file/d/13hnCXrbA2IOAHwQVOOt-ggU5XvBcp9I_/view)
 
 ## 2022
 **Li, M.,** Yu, D., Reynvoet, B., & Sayim, B. (2022). Redundancy masking prevents the detection of faces. 22nd Conference of the European Society for Cognitive Psychology (ESCoP), August 2022, Lille, France. [Poster](https://osf.io/vstmf)
@@ -34,5 +34,8 @@ Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals
 ​
 
 **Li, M.,** Reynvoet, B., & Sayim, B. (2020). Perceived numerosity in crowded and uncrowded displays. In: Poster session presented at the Virtual Psychonomics 2020 Annual Meeting, November 2020.
+
+
+**Li, M.,**  Reynvoet. B., & Sayim. B. (2019). Do crowded displays look less numerous? 8th Annual Meeting ‘Advances in Numerical Cognition Research’, May 2019, Blankenberge, Belgium. Talk.
 
 **Li, M.,** Reynvoet, B., & Sayim, B. (2019). Crowding reduces numerosity estimates for large numbers. In: Talk session presented at the European Conference on Visual Perception, August 2019, Leuven, Belgium.
