@@ -18,6 +18,11 @@ nav:
   - { title: Research, url: /research/ }
   - { title: Blog, url: /archive/ }
 
+# Research projects: one file per project in _projects/
+collections:
+  projects:
+    output: false
+
 # Social links (shown in sidebar and footer)
 RSS: false
 github_username: miaoli-psy

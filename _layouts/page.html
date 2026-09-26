@@ -19,6 +19,11 @@ layout: default
       {% include featured-tags.html %}
       {% include short-about.html %}
     </div>
+    {% elsif page.wide %}
+    <!-- Wide pages (e.g. Research): full container width -->
+    <div class="col-xs-12 postlist-container">
+      {{ content }}
+    </div>
     {% else %}
     <!-- Other pages: centered content, no sidebar -->
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1

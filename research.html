@@ -4,9 +4,168 @@ title: "Research"
 description: ""
 header-img: "img/bg.png"
 header-mask: 0.1
+wide: true # use full page width for the project grid
 ---
 
 <div class="post-container">
     {% capture research %}{% include research.md %}{% endcapture %}
     {{ research | markdownify }}
+
+    {% assign projects = site.projects | sort: 'order' %}
+    <div class="project-grid">
+    {% for project in projects %}
+    <article class="project-card" id="{{ project.slug }}">
+        <h2 class="project-title">{{ project.title }}</h2>
+        <div class="project-body">
+            {{ project.content }}
+        </div>
+        <div class="project-footer">
+            <button type="button" class="project-toggle" aria-expanded="false">Read more</button>
+            {% if project.updated %}
+            <span class="project-updated">Last updated {{ project.updated | date: "%-d %B %Y" }}</span>
+            {% endif %}
+        </div>
+    </article>
+    {% endfor %}
+    </div>
 </div>
+
+<style>
+    /* the theme adds right padding to text pages; the grid should be centred */
+    .postlist-container .post-container {
+        padding-right: 0;
+    }
+    /* 3 cards per row on desktop, 2 on tablets, 1 on phones */
+    .project-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 28px;
+        align-items: start; /* an opened card grows without stretching its neighbours */
+        margin-bottom: 28px;
+    }
+    @media (max-width: 991px) {
+        .project-grid {
+            grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+    }
+    @media (max-width: 599px) {
+        .project-grid {
+            grid-template-columns: 1fr;
+        }
+    }
+    .project-card {
+        position: relative;
+        padding: 20px 22px 14px;
+        background: #fff;
+        border: 1px solid #e3e9e4;
+        border-left: 4px solid #6e8b74;
+        border-radius: 6px;
+        box-shadow: 0 1px 3px rgba(56, 71, 59, 0.06);
+        transition: box-shadow 0.2s ease;
+    }
+    .project-card:hover {
+        box-shadow: 0 4px 14px rgba(56, 71, 59, 0.12);
+    }
+    .post-container .project-card h2.project-title {
+        margin: 0 0 12px;
+        font-size: 19px;
+        line-height: 1.3;
+        cursor: pointer;
+    }
+    /* drop the theme's divider line above h2 inside cards */
+    .post-container .project-card h2.project-title::before {
+        display: none;
+    }
+    .post-container .project-body p {
+        margin: 0 0 14px;
+        font-size: 15px;
+    }
+    .project-body {
+        position: relative;
+        overflow: hidden;
+        max-height: 8.5em; /* ~ first 5 lines */
+        transition: max-height 0.35s ease;
+    }
+    .project-body p:last-child {
+        margin-bottom: 0;
+    }
+    .project-body::after {
+        content: "";
+        position: absolute;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        height: 3em;
+        background: linear-gradient(rgba(255, 255, 255, 0), #fff);
+        pointer-events: none;
+        transition: opacity 0.2s ease;
+    }
+    .project-card.open .project-body::after,
+    .project-card.fits .project-body::after {
+        opacity: 0;
+    }
+    .project-footer {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+        gap: 8px;
+        margin-top: 12px;
+        font-size: 14px;
+    }
+    .project-toggle {
+        padding: 0;
+        border: 0;
+        background: none;
+        color: #6e8b74;
+        font-weight: 600;
+        cursor: pointer;
+    }
+    .project-toggle::after {
+        content: " \25BE";
+    }
+    .project-card.open .project-toggle::after {
+        content: " \25B4";
+    }
+    .project-card.fits .project-toggle {
+        display: none;
+    }
+    .project-toggle:hover,
+    .project-toggle:focus {
+        color: #38473B;
+        text-decoration: underline;
+    }
+    .project-updated {
+        color: #a3a3a3;
+        font-style: italic;
+    }
+    @media (max-width: 767px) {
+        .project-card {
+            padding: 18px 16px 12px;
+        }
+    }
+</style>
+
+<script>
+    document.querySelectorAll('.project-card').forEach(function (card) {
+        var body = card.querySelector('.project-body');
+        var button = card.querySelector('.project-toggle');
+        var collapsed = getComputedStyle(body).maxHeight;
+
+        // Short projects need no "Read more".
+        if (body.scrollHeight <= body.clientHeight + 2) {
+            card.classList.add('fits');
+            body.style.maxHeight = 'none';
+            return;
+        }
+
+        function toggle() {
+            var open = card.classList.toggle('open');
+            button.setAttribute('aria-expanded', open);
+            button.textContent = open ? 'Show less' : 'Read more';
+            body.style.maxHeight = open ? body.scrollHeight + 'px' : collapsed;
+        }
+        button.addEventListener('click', toggle);
+        card.querySelector('.project-title').addEventListener('click', toggle);
+    });
+</script>
