@@ -78,4 +78,14 @@
     </a>
   </li>
   {% endif %}
+  {% if site.researchgate_username %}
+  <li>
+    <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_username }}" title="ResearchGate">
+      <span class="fa-stack fa-lg">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-stack-1x fa-inverse" style="font-family: Arial, sans-serif; font-weight: bold; font-size: 0.8em;">RG</i>
+      </span>
+    </a>
+  </li>
+  {% endif %}
 </ul>
