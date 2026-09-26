@@ -1,19 +1,49 @@
 
 # Papers
-## Manuscript in Preparation
+
+## Manuscript in Preparation and Preprints
 
 
-**L-Miao, L.,**  Hansmann-Roth, S., Reynvoet, B., Harmening, W. M, & Sayim, B. (in prep) No pooling in Crowding.
+**L-Miao, L.,**  Hansmann-Roth, S., Harmening, W. M, & Sayim, B. (in prep) No pooling in Crowding.
 
-**L-Miao, L.,**  Hansmann-Roth, S., Chen, C., Reynvoet, B., & Sayim, B. (in prep) Redundancy masking of faces reveals a substantial failure to detect socially relevant information
 
-**L-Miao, L.,** Reynvoet, B., & Sayim, B. (in prep) Redundancy masking, crowding, and the radial-tangential anisotropy of numerosity estimation
+**L-Miao, L.,** Reynvoet, B., & Sayim, B. RSpatial anisotropy in small numerosity perception in peripheral vision (under review)
 
-## 2022
+**L-Miao, L.,**  Öztaş, D. N., Alp, N., & Sayim, B. (2026). Compression of redundant visual information improves feature discrimination in human vision. bioRxiv, 2026.2009.2007.749904. https://doi.org/10.64898/2026.09.07.749904 
+
+
+Öztaş, D. N., **L-Miao, L.,** Sayim, B., & Alp, N. (2025). Redundancy masking and the compression of information in the brain. bioRxiv, 2025.2005.2030.657088. https://doi.org/10.1101/2025.05.30.657088 
+
+
+
+## 2026
+
+**L-Miao, L.,** Dandan, Y. R., Chen, C., Reynvoet, B., & Sayim, B. (2026). Information compression trumps accuracy when viewing groups of faces. Consciousness and Cognition, 143, 104088. https://doi.org/https://doi.org/10.1016/j.concog.2026.104088 
+
+Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2026). Spatial anisotropy in crowding and ensemble perception. Journal of Vision, 26(7), 15-15. https://doi.org/10.1167/jov.26.7.15 
+
+## 2025 and before
+**L-Miao, L.,**  Reynvoet, B., & Sayim, B. (2024). The radial–tangential anisotropy of numerosity perception. Journal of vision, 24(7), 15-15. https://doi.org/10.1167/jov.24.7.15 
+
 **L-Miao, L.,** Reynvoet, B., & Sayim, B. (2022). Anisotropic representations of visual space modulate visual numerosity estimation. *Vision Research*, 201, 108130. [View online](https://www.sciencedirect.com/science/article/abs/pii/S0042698922001365); [Download preprint](https://osf.io/urg3j/)
 
 
 # Conferences
+
+## 2026
+
+**L-Miao, L.,** Reynvoet, B., & Sayim, B. Redundancy masking underlies underestimation and the radial-tangential anisotropy in numerosity perception. GDR Vision Forum, Rennes, France. Talk.
+
+**L-Miao, L.,** Turkmen Y. E & Sayim, B. (2023). Redundancy masking explains underestimation and the radial-tangential anisotropy of numerosity perception. Vision Science Society, May 2026. [Poster](https://osf.io/8gvz2/overview?view_only=84b3f948505740878f4d0d965b18dac2)
+
+## 2025
+
+**L-Miao, L.,**  Hansmann-Roth, S., Harmening, W. M, & Sayim, B. Pooling models fail with optimal stimuli to reveal orientation averaging. GDR Vision Forum, Louvain-la-Neuve, Belgium. Talk.
+
+## 2024
+
+**L-Miao, L.,**  Öztaş, D. N., Alp, N., & Sayim, B. (2026). Redundancy masking and the limits of conscious vision. European Society for Philosophy and Psychology (ESPP 2024), Grenoble, France. Talk
+
 ## 2023
 
 **L-Miao, L.,** Hansmann-Roth, S., Reynvoet, B., & Sayim, B. (2023). No pooling in crowding: Deterioration of orientation discrimination with increasing numbers of identical Gabors (ECVP), August 2023, Paphos, Cyprus. [Poster](https://osf.io/hta95)

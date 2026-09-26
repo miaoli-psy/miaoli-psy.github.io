@@ -5,52 +5,30 @@ header-img: img/bg.png
 email: chuoli223@yahoo.com
 description: "Miao's personal webpage"
 keyword: "Miao"
-url: "https://miaoli-psy.github.io/" # your host, for absolute URL
-baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://miaoli-psy.github.io/"
+baseurl: ""
 
 # Publish posts or collection documents with a future date.
 future: true
 
-# SNS settings
+# Social links (shown in sidebar and footer)
 RSS: false
-# weibo_username: miao
-# zhihu_username: miao
 github_username: miaoli-psy
 twitter_username: miaolipsy
-#facebook_username:  miao
-linkedin_username:  miaolipsy
+linkedin_username: miaolipsy
 
 # Build settings
-# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 highlighter: rouge
 permalink: pretty
 paginate: 10
-exclude:
-  [
-    "less",
-    "node_modules",
-    "Gruntfile.js",
-    "package.json",
-    "README.md",
-    "README.zh.md",
-  ]
-anchorjs: true # if you want to customize anchor. check out line:181 of `post.html`
-# If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN
+exclude: ["README.md", "LICENSE", "Gemfile", "Gemfile.lock", "setup.sh"]
+anchorjs: true # heading anchor links in blog posts
 
-# Gems
-# from PR#40, to support local preview for Jekyll 3.0
-# make sure you have this gem installed
-# `$ gem install jekyll-paginate`
 plugins: [jekyll-paginate]
 
-# Markdown settings
-# replace redcarpet to kramdown,
-# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
-# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 kramdown:
-  input: GFM # use Github Flavored Markdown !important
+  input: GFM
   syntax_highlighter_opts:
     span:
       line_numbers: false
@@ -58,45 +36,16 @@ kramdown:
       line_numbers: true
       start_line: 1
 
-# Disqus settings
-# disqus_username: hux
-
-# Netease settings
-# netease_comment: false
-
-# Analytics settings
-# Baidu Analytics
-# ba_track_id: [your track id]
-
-# Google Analytics
-# ga_track_id: "G-F4LEPBJPF5" # Format: UA-xxxxxx-xx
-# ga_domain: https://miaoli-psy.github.io
-
 # Sidebar settings
-sidebar: true # whether or not using Sidebar.
+sidebar: true
 sidebar-about-description: "Vision science follower; contact: chuoli223[at]hotmail.com"
-sidebar-avatar: /img/miao_profile.jpg # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/miao_profile.jpg # absolute URL, used on both `/` and `/about/`
 
 # Featured Tags
-featured-tags: true # whether or not using Feature-Tags
-featured-condition-size: 1 # A tag will be featured if the size of it is more than this condition value
+featured-tags: true
+featured-condition-size: 1 # a tag is featured if it is used by more than this many posts
 
-# Progressive Web Apps
 chrome-tab-theme-color: "#000000"
-service-worker: true
 
 # MathJax rendering for layout:page (e.g. post preview)
 page-mathjax: false
-
-# Friends
-# friends:
-#   [
-#     { title: "乱序（Midare）", href: "http://mida.re/" },
-#     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
-#     { title: "Kun Qian", href: "http://kunq.me" },
-#     { title: "Sherry Woo", href: "https://sherrywoo.me/" },
-#     { title: "SmdCn", href: "http://blog.smdcn.net" },
-#     { title: "JiyinYiyong", href: "http://tiye.me/" },
-#     { title: "DHong Say", href: "http://dhong.co" },
-#     { title: "尹峰以为", href: "http://ingf.github.io/" },
-#   ]
