@@ -24,9 +24,21 @@
                             <a href="{{ site.baseurl }}/">Home</a>
                         </li>
                         {% for item in site.nav %}
+                        {% if item.children %}
+                        <li class="nav-dropdown">
+                            <a href="{{ item.url | prepend: site.baseurl }}" class="nav-dropdown-toggle"
+                                aria-haspopup="true" aria-expanded="false">{{ item.title }} <span class="nav-caret">&#9662;</span></a>
+                            <ul class="nav-dropdown-menu">
+                                {% for child in item.children %}
+                                <li><a href="{{ child.url | prepend: site.baseurl }}">{{ child.title }}</a></li>
+                                {% endfor %}
+                            </ul>
+                        </li>
+                        {% else %}
                         <li>
                             <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
                         </li>
+                        {% endif %}
                         {% endfor %}
                         <li class="search-icon">
                             <a href="javascript:void(0)">
@@ -40,6 +52,67 @@
         </div>
         <!-- /.container -->
     </nav>
+
+    <style>
+        .nav-caret {
+            font-size: 10px;
+        }
+        .navbar-custom .nav .nav-dropdown-toggle:hover,
+        .navbar-custom .nav .nav-dropdown-toggle:focus {
+            background: transparent;
+        }
+        .navbar-custom .nav .nav-dropdown-menu {
+            margin: 0;
+            padding: 0 0 6px;
+            list-style: none;
+        }
+        /* phones: let the menu box grow to fit the extra items */
+        .navbar-fixed-top .navbar-collapse {
+            max-height: none;
+        }
+        /* phones: sub-items listed under "Publications", indented and lighter */
+        .navbar-custom .nav .nav-dropdown-menu li a {
+            display: block;
+            padding: 2px 15px 2px 30px;
+            color: #777;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        @media (min-width: 768px) {
+            .nav-dropdown {
+                position: relative;
+            }
+            .navbar-custom .nav .nav-dropdown-menu {
+                display: none;
+                position: absolute;
+                top: 100%;
+                left: 50%;
+                transform: translateX(-50%);
+                min-width: 190px;
+                padding: 6px 0;
+                background: #fff;
+                border-radius: 4px;
+                box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+                z-index: 10;
+            }
+            .nav-dropdown.is-open .nav-dropdown-menu {
+                display: block;
+            }
+            .navbar-custom .nav .nav-dropdown-menu li a {
+                display: block;
+                padding: 8px 18px;
+                color: #38473B;
+                font-size: 12px;
+                font-weight: 800;
+                white-space: nowrap;
+            }
+            .navbar-custom .nav .nav-dropdown-menu li a:hover,
+            .navbar-custom .nav .nav-dropdown-menu li a:focus {
+                color: #6e8b74;
+                background: #f3f6f4;
+            }
+        }
+    </style>
 
     <script>
         // Drop Bootstarp low-performance Navbar
@@ -66,6 +139,31 @@
                 $navbar.className += " in";
             }
         }
+
+        // Dropdown menus (e.g. Publications): click to open on desktop.
+        // On phones the items are always listed under their parent.
+        document.querySelectorAll('.nav-dropdown').forEach(function (dropdown) {
+            var toggle = dropdown.querySelector('.nav-dropdown-toggle');
+            function setOpen(open) {
+                dropdown.classList.toggle('is-open', open);
+                toggle.setAttribute('aria-expanded', open);
+            }
+            toggle.addEventListener('click', function (e) {
+                if (window.innerWidth < 768) return; // phones: follow the link
+                e.preventDefault();
+                e.stopPropagation();
+                setOpen(!dropdown.classList.contains('is-open'));
+            });
+            dropdown.querySelectorAll('.nav-dropdown-menu a').forEach(function (link) {
+                link.addEventListener('click', function () { setOpen(false); });
+            });
+            document.addEventListener('click', function (e) {
+                if (!dropdown.contains(e.target)) setOpen(false);
+            });
+            document.addEventListener('keydown', function (e) {
+                if (e.key === 'Escape') setOpen(false);
+            });
+        });
 
         // Bind Event
         $toggle.addEventListener('click', function (e) {

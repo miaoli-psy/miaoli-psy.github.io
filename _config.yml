@@ -14,7 +14,11 @@ future: true
 # Top menu, in display order ("Home" is always first)
 nav:
   - { title: About, url: /about/ }
-  - { title: Publications, url: /publications/ }
+  - title: Publications
+    url: /publications/
+    children: # dropdown menu items
+      - { title: Papers, url: /publications/#papers }
+      - { title: Conference abstracts, url: /publications/#conferences }
   - { title: Research, url: /research/ }
   - { title: Blog, url: /archive/ }
 

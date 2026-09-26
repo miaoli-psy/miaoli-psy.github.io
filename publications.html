@@ -10,3 +10,11 @@ header-mask: 0.1
     {% capture publications %}{% include publications.md %}{% endcapture %}
     {{ publications | markdownify }}
 </div>
+
+<style>
+    /* "Papers" and "Conferences" in the theme green */
+    .post-container h1 {
+        color: #6e8b74;
+        scroll-margin-top: 70px; /* keep headings clear of the top menu when jumping from the dropdown */
+    }
+</style>
