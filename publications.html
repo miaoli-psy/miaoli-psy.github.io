@@ -48,6 +48,12 @@ header-mask: 0.1
         visibility: hidden;
     }
 
+    #conference-abstracts ~ p {
+        margin: 22px 0;
+        padding-left: 1.25em;
+        text-indent: -1.25em;
+    }
+
     @media (max-width: 768px) {
         .publications-list h1 {
             margin-top: 46px;
@@ -58,6 +64,11 @@ header-mask: 0.1
         .publications-list h2 {
             margin-top: 34px;
             padding: 8px 12px;
+        }
+
+        #conference-abstracts ~ p {
+            padding-left: 0.85em;
+            text-indent: -0.85em;
         }
     }
 </style>
