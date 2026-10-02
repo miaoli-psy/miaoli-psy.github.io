@@ -17,6 +17,12 @@
     </div>
 </footer>
 
+{% if site.goatcounter_code %}
+<!-- Private analytics; no visitor count is displayed on the website. -->
+<script data-goatcounter="https://{{ site.goatcounter_code }}.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+{% endif %}
+
 <!-- jQuery -->
 <script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
 

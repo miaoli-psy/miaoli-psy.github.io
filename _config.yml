@@ -33,6 +33,9 @@ twitter_username: miaolipsy
 linkedin_username: miaolipsy
 researchgate_username: Li-L-Miao
 
+# Private visitor analytics (dashboard: https://miaoli.goatcounter.com)
+goatcounter_code: miaoli
+
 # Build settings
 highlighter: rouge
 permalink: pretty
