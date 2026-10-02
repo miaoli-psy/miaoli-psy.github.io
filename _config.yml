@@ -54,12 +54,7 @@ kramdown:
 
 # Sidebar settings
 sidebar: true
-sidebar-photo-caption: "ESCoP 2022 · Lille, France"
 sidebar-avatar: /img/miao_profile.jpg
-
-# Featured Tags
-featured-tags: true
-featured-condition-size: 1 # a tag is featured if it is used by more than this many posts
 
 chrome-tab-theme-color: "#000000"
 
