@@ -35,19 +35,24 @@ Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (
 
 ## 2026
 
-Turkmen, Y. E., **L-Miao, L.,** Harmening, W., & Sayim, B. (2026). Beyond visual resolution: Redundancy masking as a limiting factor of foveal vision. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
-
-Sayim, B., Reynvoet, B., & **L-Miao, L.** (2026). Anisotropy of small-number enumeration in peripheral vision. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK. [Talk]
-
-Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2026). Feature enhancement in peripheral vision explained by redundancy masking, density perception and the compression of visual space. In Proceedings of the 2026 GDR Vision Forum (pp. 20–21).
-
-Turkmen, Y. E., **L-Miao, L.,** & Sayim, B. (2026). Disentangling redundancy masking and visual resolution in foveal vision. In Proceedings of the 2026 GDR Vision Forum (pp. 69–70).
-
 **L-Miao, L.,** Reynvoet, B., & Sayim, B. (2026). Redundancy masking underlies underestimation and the radial-tangential anisotropy in numerosity perception. GDR Vision Forum, Rennes, France. [Talk]
 
 **L-Miao, L.,** Turkmen, Y. E., & Sayim, B. (2026). Redundancy masking explains underestimation and the radial-tangential anisotropy of numerosity perception. Vision Sciences Society, May 2026. [Poster](https://osf.io/8gvz2/overview?view_only=84b3f948505740878f4d0d965b18dac2)
 
+Öztaş, D. N., **L-Miao, L.,** Alp, N., & Sayim, B. (2026). Interactions of perceived number, density, and compression of visual space explain improved feature discrimination in redundancy masking. Vision Sciences Society Annual Meeting, St. Pete Beach, FL, USA. [Poster]
+
+Turkmen, Y. E., **L-Miao, L.,** Harmening, W., & Sayim, B. (2026). Beyond visual resolution: Redundancy masking as a limiting factor of foveal vision. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+Sayim, B., Reynvoet, B., & **L-Miao, L.** (2026). Anisotropy of small-number enumeration in peripheral vision. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK. [Talk]
+
+Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2026). Feature enhancement in peripheral vision explained by redundancy masking, density perception and the compression of visual space. In Proceedings of the 2026 GDR Vision Forum.
+
+Turkmen, Y. E., **L-Miao, L.,** & Sayim, B. (2026). Disentangling redundancy masking and visual resolution in foveal vision. In Proceedings of the 2026 GDR Vision Forum.
+
+
 ## 2025
+
+**L-Miao, L.,** Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2025). Pooling models fail with optimal stimuli to reveal orientation averaging. GDR Vision Forum, Louvain-la-Neuve, Belgium. [Talk]
 
 Öztaş, D. N., Alp, N., **L-Miao, L.,** & Sayim, B. (2025, June 1). Neural correlates of redundancy masking. International Symposium on Brain and Cognitive Science (ISBCS) 2025, Istanbul, Turkey. [Poster]
 
@@ -55,25 +60,25 @@ Alp, N., Öztaş, D. N., **L-Miao, L.,** & Sayim, B. (2025). The neural signatur
 
 Alp, N., Öztaş, D. N., **L-Miao, L.,** & Sayim, B. (2025, February 7). Neural correlates of redundancy masking. Lake Ontario Visionary Establishment (LOVE Conference) 2025, Niagara Falls, Canada.
 
-**L-Miao, L.,** Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2025). Pooling models fail with optimal stimuli to reveal orientation averaging. GDR Vision Forum, Louvain-la-Neuve, Belgium. [Talk]
-
 ## 2024
+
+
+**L-Miao, L.,** Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2024). No pooling, no averaging: How varying the number of identical Gabors modulates orientation discrimination in the periphery. Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
+
+**L-Miao, L.,** Öztaş, D. N., Alp, N., & Sayim, B. (2024). Redundancy masking and the limits of conscious vision. European Society for Philosophy and Psychology (ESPP 2024), Grenoble, France. [Talk]
 
 Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). No conscious seeing without attention: How redundancy masking and the compression of visual information limit conscious vision. 27th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC), Abstract 375, P-4-8.
 
 Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). Seeing less but seeing better: Information loss and accuracy gain in redundancy masking. Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
 
-**L-Miao, L.,** Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2024). No pooling, no averaging: How varying the number of identical Gabors modulates orientation discrimination in the periphery. Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
-
 Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). Redundancy masking and advantages of information compression in visual perception. Vision Research Network (GDR Vision), Grenoble, France.
 
-**L-Miao, L.,** Öztaş, D. N., Alp, N., & Sayim, B. (2024). Redundancy masking and the limits of conscious vision. European Society for Philosophy and Psychology (ESPP 2024), Grenoble, France. [Talk]
 
 ## 2023
 
-Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2023). Information loss and accuracy gain in redundancy masking. AVA Christmas Meeting, London, UK.
-
 **L-Miao, L.,** Hansmann-Roth, S., Reynvoet, B., & Sayim, B. (2023). No pooling in crowding: Deterioration of orientation discrimination with increasing numbers of identical Gabors. European Conference on Visual Perception (ECVP), August 2023, Paphos, Cyprus. [Poster](https://osf.io/hta95)
+
+Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2023). Information loss and accuracy gain in redundancy masking. AVA Christmas Meeting, London, UK.
 
 Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2023). Unbiased by redundant signals: Negativity bias for emotion perception of single but not two identical faces. Vision Sciences Society, May 2023. [Poster](https://drive.google.com/file/d/13hnCXrbA2IOAHwQVOOt-ggU5XvBcp9I_/view)
 
