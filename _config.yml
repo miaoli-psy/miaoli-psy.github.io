@@ -1,11 +1,11 @@
 # Site settings
 title: Miao Li
-SEOTitle: Miao Li | Miao personal website
+SEOTitle: Miao Li | Li L-Miao
 header-img: img/bg.png
-email: chuoli223@yahoo.com
-description: "Miao's personal webpage"
-keyword: "Miao"
-url: "https://miaoli-psy.github.io/"
+email: chuoli223@hotmail.com
+description: "Miao Li's academic website: research, publications, and blog."
+keyword: "Miao Li, visual perception, vision science, numerosity, visual crowding, redundancy masking"
+url: "https://miaoli-psy.github.io"
 baseurl: ""
 
 # Publish posts or collection documents with a future date.
@@ -54,8 +54,8 @@ kramdown:
 
 # Sidebar settings
 sidebar: true
-sidebar-about-description: "Vision science follower; contact: chuoli223[at]hotmail.com"
-sidebar-avatar: /img/miao_profile.jpg # absolute URL, used on both `/` and `/about/`
+sidebar-photo-caption: "ESCoP 2022 · Lille, France"
+sidebar-avatar: /img/miao_profile.jpg
 
 # Featured Tags
 featured-tags: true

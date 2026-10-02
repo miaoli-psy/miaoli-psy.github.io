@@ -6,7 +6,7 @@ Built with Jekyll and hosted on GitHub Pages.
 Editing content
 ---------------
 
-- About: `_includes/about.md`
+- Home profile: `_includes/about.md`
 - Publications: `_includes/publications.md`
 - Research: `_includes/research.md`
 - Blog posts: `_posts/YYYY-MM-DD-title.md`
@@ -21,7 +21,7 @@ bundle exec jekyll serve
 
 Then open http://localhost:4000.
 
-Ctri+C to stop
+Ctrl+C to stop
 
 Deploy
 ------

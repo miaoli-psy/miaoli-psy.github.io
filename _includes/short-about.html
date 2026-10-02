@@ -1,14 +1,44 @@
 <section class="visible-md visible-lg">
   <hr>
-  <h5><a href="{{'/' | prepend: site.baseurl }}"> Miao at ESCoP 2022, Lille</a></h5>
-  <div class="short-about">
+  <div class="short-about sidebar-profile">
     {% if site.sidebar-avatar %}
-    <img src="{{site.sidebar-avatar}}" />
+    <img src="{{ site.sidebar-avatar }}" alt="Portrait of {{ site.title }}" />
     {% endif %}
-    {% if site.sidebar-about-description %}
-    <p>{{site.sidebar-about-description}}</p>
-    {% endif %}
+    <div class="sidebar-profile-details">
+      {% if site.sidebar-photo-caption %}
+      <p class="sidebar-photo-caption"><i class="fa fa-map-marker" aria-hidden="true"></i> {{ site.sidebar-photo-caption }}</p>
+      {% endif %}
+      {% if site.email %}
+      <p class="sidebar-profile-contact"><a href="mailto:{{ site.email }}"><i class="fa fa-envelope-o" aria-hidden="true"></i> {{ site.email | replace: '@', '[at]' }}</a></p>
+      {% endif %}
+    </div>
     <!-- SNS Link -->
     {% include sns-links.html %}
   </div>
 </section>
+
+<style>
+  .sidebar-profile-details {
+    margin: 14px 0 18px;
+  }
+  .sidebar-profile-details p {
+    margin: 0;
+    line-height: 1.55;
+  }
+  .sidebar-photo-caption {
+    color: #526d59;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .sidebar-profile-contact {
+    margin-top: 7px !important;
+    font-size: 13px;
+  }
+  .sidebar-container .sidebar-profile-contact a {
+    color: #6e8b74 !important;
+  }
+  .sidebar-profile-contact .fa,
+  .sidebar-photo-caption .fa {
+    width: 14px;
+  }
+</style>

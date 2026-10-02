@@ -13,7 +13,7 @@ Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2026). Spatial anisotropy in crowdin
 **L-Miao, L.,** Reynvoet, B., & Sayim, B. (2022). Anisotropic representations of visual space modulate visual numerosity estimation. *Vision Research*, 201, 108130. [View online](https://www.sciencedirect.com/science/article/abs/pii/S0042698922001365) [Download Accepted Manuscript](https://osf.io/urg3j/)
 
 
-Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (2019). Are the effects of lead exposure linked to the g factor? A meta-analysis. Personality and Individual Differences, 137, 184-191. https://doi.org/https://doi.org/10.1016/j.paid.2018.09.005
+Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (2019). Are the effects of lead exposure linked to the g factor? A meta-analysis. *Personality and Individual Differences*, 137, 184–191. https://doi.org/10.1016/j.paid.2018.09.005
 
 
 ## Manuscripts in Preparation and Preprints
