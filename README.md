@@ -21,6 +21,8 @@ bundle exec jekyll serve
 
 Then open http://localhost:4000.
 
+Ctri+C to stop
+
 Deploy
 ------
 

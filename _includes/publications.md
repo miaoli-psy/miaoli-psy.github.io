@@ -1,6 +1,22 @@
 
 # Papers
 
+
+
+**L-Miao, L.,** Dandan, Y. R., Chen, C., Reynvoet, B., & Sayim, B. (2026). Information compression trumps accuracy when viewing groups of faces. *Consciousness and Cognition*, 143, 104088. https://doi.org/10.1016/j.concog.2026.104088 [Download full text](https://www.researchgate.net/publication/408420338_Information_compression_trumps_accuracy_when_viewing_groups_of_faces)
+
+Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2026). Spatial anisotropy in crowding and ensemble perception. *Journal of Vision*, 26(7), 15-15. https://doi.org/10.1167/jov.26.7.15
+
+
+**L-Miao, L.,**  Reynvoet, B., & Sayim, B. (2024). The radial–tangential anisotropy of numerosity perception. *Journal of Vision*, 24(7), 15-15. https://doi.org/10.1167/jov.24.7.15
+
+**L-Miao, L.,** Reynvoet, B., & Sayim, B. (2022). Anisotropic representations of visual space modulate visual numerosity estimation. *Vision Research*, 201, 108130. [View online](https://www.sciencedirect.com/science/article/abs/pii/S0042698922001365); [Download preprint](https://osf.io/urg3j/)
+
+
+Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (2019). Are the effects of lead exposure linked to the g factor? A meta-analysis. Personality and Individual Differences, 137, 184-191. https://doi.org/https://doi.org/10.1016/j.paid.2018.09.005
+
+
+
 ## Manuscripts in Preparation and Preprints
 
 
@@ -9,32 +25,24 @@
 
 **L-Miao, L.,** Reynvoet, B., & Sayim, B. (under review). Spatial anisotropy in small numerosity perception in peripheral vision.
 
-**L-Miao, L.,**  Öztaş, D. N., Alp, N., & Sayim, B. (2026). Compression of redundant visual information improves feature discrimination in human vision. bioRxiv, 2026.2009.2007.749904. https://doi.org/10.64898/2026.09.07.749904 
+**L-Miao, L.,**  Öztaş, D. N., Alp, N., & Sayim, B. (2026). Compression of redundant visual information improves feature discrimination in human vision. bioRxiv, 2026.2009.2007.749904. https://doi.org/10.64898/2026.09.07.749904
 
 
-Öztaş, D. N., **L-Miao, L.,** Sayim, B., & Alp, N. (2025). Redundancy masking and the compression of information in the brain. bioRxiv, 2025.2005.2030.657088. https://doi.org/10.1101/2025.05.30.657088 
+Öztaş, D. N., **L-Miao, L.,** Sayim, B., & Alp, N. (2025). Redundancy masking and the compression of information in the brain. bioRxiv, 2025.2005.2030.657088. https://doi.org/10.1101/2025.05.30.657088
 
+<div id="conferences" class="publication-anchor" aria-hidden="true"></div>
 
-
-## 2026
-
-**L-Miao, L.,** Dandan, Y. R., Chen, C., Reynvoet, B., & Sayim, B. (2026). Information compression trumps accuracy when viewing groups of faces. *Consciousness and Cognition*, 143, 104088. https://doi.org/10.1016/j.concog.2026.104088 
-
-Dandan, Y. R., **L-Miao, L.,** & Sayim, B. (2026). Spatial anisotropy in crowding and ensemble perception. *Journal of Vision*, 26(7), 15-15. https://doi.org/10.1167/jov.26.7.15 
-
-## 2024 and before
-**L-Miao, L.,**  Reynvoet, B., & Sayim, B. (2024). The radial–tangential anisotropy of numerosity perception. *Journal of Vision*, 24(7), 15-15. https://doi.org/10.1167/jov.24.7.15 
-
-**L-Miao, L.,** Reynvoet, B., & Sayim, B. (2022). Anisotropic representations of visual space modulate visual numerosity estimation. *Vision Research*, 201, 108130. [View online](https://www.sciencedirect.com/science/article/abs/pii/S0042698922001365); [Download preprint](https://osf.io/urg3j/)
-
-
-Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (2019). Are the effects of lead exposure linked to the g factor? A meta-analysis. Personality and Individual Differences, 137, 184-191. https://doi.org/https://doi.org/10.1016/j.paid.2018.09.005 
-
-
-
-# Conferences
+# Conference Abstracts
 
 ## 2026
+
+Turkmen, Y. E., **L-Miao, L.,** Harmening, W., & Sayim, B. (2026). Beyond visual resolution: Redundancy masking as a limiting factor of foveal vision. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+Sayim, B., Reynvoet, B., & **L-Miao, L.** (2026). Anisotropy of small-number enumeration in peripheral vision [Talk]. 48th European Conference on Visual Perception (ECVP), Bournemouth, UK.
+
+Sayim, B., Oztas, D. N., **L-Miao, L.,** & Alp, N. (2026). Feature enhancement in peripheral vision explained by redundancy masking, density perception and the compression of visual space. In *Proceedings of the 2026 GDR Vision Forum* (pp. 20–21).
+
+Turkmen, Y. E., **L-Miao, L.,** & Sayim, B. (2026). Disentangling redundancy masking and visual resolution in foveal vision. In *Proceedings of the 2026 GDR Vision Forum* (pp. 69–70).
 
 **L-Miao, L.,** Reynvoet, B., & Sayim, B. Redundancy masking underlies underestimation and the radial-tangential anisotropy in numerosity perception. GDR Vision Forum, Rennes, France. Talk.
 
@@ -42,13 +50,29 @@ Woodley of Menie, M. A., te Nijenhuis, J., Shibaev, V., **Li, M.,** & Smit, J. (
 
 ## 2025
 
+Öztaş, D. N., Alp, N., **L-Miao, L.,** & Sayim, B. (2025, June 1). Neural correlates of redundancy masking [Poster]. International Symposium on Brain and Cognitive Science (ISBCS) 2025, Istanbul, Turkey.
+
+Alp, N., Öztaş, D. N., **L-Miao, L.,** & Sayim, B. (2025). The neural signatures of redundancy masking investigated by EEG frequency tagging [Talk]. Vision Sciences Society Annual Meeting, St. Pete Beach, USA.
+
+Alp, N., Öztaş, D. N., **L-Miao, L.,** & Sayim, B. (2025, February 7). Neural correlates of redundancy masking. Lake Ontario Visionary Establishment (LOVE Conference) 2025, Niagara Falls, Canada.
+
 **L-Miao, L.,**  Hansmann-Roth, S., Harmening, W. M., & Sayim, B. Pooling models fail with optimal stimuli to reveal orientation averaging. GDR Vision Forum, Louvain-la-Neuve, Belgium. Talk.
 
 ## 2024
 
+Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). No conscious seeing without attention: How redundancy masking and the compression of visual information limit conscious vision. 27th Annual Meeting of the Association for the Scientific Study of Consciousness (ASSC), Abstract 375, P-4-8.
+
+Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). Seeing less but seeing better: Information loss and accuracy gain in redundancy masking. Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
+
+**L-Miao, L.,** Hansmann-Roth, S., Harmening, W. M., & Sayim, B. (2024). No pooling, no averaging: How varying the number of identical Gabors modulates orientation discrimination in the periphery. Vision Sciences Society Annual Meeting, St. Pete Beach, USA, May 2024.
+
+Sayim, B., Öztaş, D. N., **L-Miao, L.,** & Alp, N. (2024). Redundancy masking and advantages of information compression in visual perception. Vision Research Network (GDR Vision), Grenoble, France.
+
 **L-Miao, L.,**  Öztaş, D. N., Alp, N., & Sayim, B. (2024). Redundancy masking and the limits of conscious vision. European Society for Philosophy and Psychology (ESPP 2024), Grenoble, France. Talk.
 
 ## 2023
+
+Sayim, B., Öztas, D., **L-Miao, L.,** & Alp, N. (2023). Information loss and accuracy gain in redundancy masking. AVA Christmas Meeting, London, UK.
 
 **L-Miao, L.,** Hansmann-Roth, S., Reynvoet, B., & Sayim, B. (2023). No pooling in crowding: Deterioration of orientation discrimination with increasing numbers of identical Gabors. European Conference on Visual Perception (ECVP), August 2023, Paphos, Cyprus. [Poster](https://osf.io/hta95)
 
